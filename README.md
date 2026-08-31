@@ -1,6 +1,6 @@
 # Matteo Di Iorio
 
-Computer Engineering student at the University of Bologna.
+Computer Engineering M.Sc. student at the University of Bologna.
 
 I like building things around systems software: embedded firmware, telemetry pipelines, cloud-native infrastructure, and tools that help me understand how a system works end to end.
 
